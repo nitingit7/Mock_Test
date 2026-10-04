@@ -1,0 +1,261 @@
+{
+  "meta": {
+    "examName": "IBPS PO Prelims",
+    "testName": "Full Mock Test - 3 Sections",
+    "testType": "full",
+    "durationMinutes": 60,
+    "marksPerQuestion": 1,
+    "negativeMarking": 0.25,
+    "sectionTimed": true,
+    "allowReattempt": true
+  },
+  "sections": [
+    {
+      "name": "English Language",
+      "durationMinutes": 20,
+      "cutoff": 10,
+      "groups": [
+        {
+          "id": "eng-rc1",
+          "passage": "<b>Directions (Q. 1–4):</b> Read the following passage carefully and answer the questions.\n\nThe banking sector plays a **pivotal** role in the economic development of a country. Modern banking has evolved beyond traditional deposits and loans to include digital transactions, fintech partnerships, and artificial intelligence-driven customer service. However, with technological advancement comes increased exposure to cyber threats and financial fraud.\n\nFinancial institutions must balance rapid digital innovation with robust security infrastructure, ensuring consumer trust while expanding access to unbanked populations."
+        }
+      ],
+      "questions": [
+        {
+          "id": 1,
+          "groupId": "eng-rc1",
+          "question": "What is the primary theme of the passage?",
+          "options": [
+            "Banking should avoid digital innovation",
+            "Modern banking balances technological expansion with cybersecurity and trust",
+            "Traditional lending is more secure than online banking",
+            "Fintech companies have completely replaced traditional banks",
+            "Cyber threats cannot be mitigated by financial institutions"
+          ],
+          "correct": 2,
+          "explanation": "The passage emphasizes balancing digital innovation with robust security infrastructure and consumer trust.<br><b>Full solution:</b> English_Sample.pdf, page 2"
+        },
+        {
+          "id": 2,
+          "groupId": "eng-rc1",
+          "question": "Which of the following is highlighted as a consequence of technological advancement in banking?",
+          "options": [
+            "Lower operational costs only",
+            "Increased exposure to cyber threats and financial fraud",
+            "Decreased customer service responsiveness",
+            "Elimination of regulatory compliance needs",
+            "Complete closure of physical branch networks"
+          ],
+          "correct": 2,
+          "explanation": "The passage explicitly notes increased exposure to cyber threats and financial fraud.<br><b>Full solution:</b> English_Sample.pdf, page 2"
+        },
+        {
+          "id": 3,
+          "groupId": "eng-rc1",
+          "question": "The word <b>pivotal</b> as used in the passage most nearly means:",
+          "options": [
+            "Marginal",
+            "Crucial",
+            "Secondary",
+            "Temporary",
+            "Superficial"
+          ],
+          "correct": 2,
+          "explanation": "Pivotal means vitally important, central, or crucial.<br><b>Full solution:</b> English_Sample.pdf, page 3"
+        },
+        {
+          "id": 4,
+          "groupId": "eng-rc1",
+          "question": "According to the passage, what must financial institutions ensure alongside expanding access?",
+          "options": [
+            "Maximum quarterly dividend payouts",
+            "Robust security infrastructure and consumer trust",
+            "Discontinuation of AI customer support",
+            "Restricting loans to corporate entities only",
+            "Elimination of fintech collaborations"
+          ],
+          "correct": 2,
+          "explanation": "Financial institutions must balance innovation with security and maintain consumer trust.<br><b>Full solution:</b> English_Sample.pdf, page 3"
+        },
+        {
+          "id": 5,
+          "question": "Select the most appropriate synonym for the word: **METICULOUS**",
+          "options": [
+            "Careless",
+            "Thorough",
+            "Hastened",
+            "Indifferent",
+            "Vague"
+          ],
+          "correct": 2,
+          "explanation": "Meticulous means showing great attention to detail; very careful and precise (thorough).<br><b>Full solution:</b> English_Sample.pdf, page 4"
+        }
+      ]
+    },
+    {
+      "name": "Quantitative Aptitude",
+      "durationMinutes": 20,
+      "cutoff": 10,
+      "groups": [
+        {
+          "id": "quant-di1",
+          "passage": "<b>Directions (Q. 6–9):</b>\nThe bar chart shows the production of five companies in 2022 and 2023. Study it and answer the questions.",
+          "image": "quant1-di1-bar.png"
+        }
+      ],
+      "questions": [
+        {
+          "id": 6,
+          "groupId": "quant-di1",
+          "question": "What is the total production of Companies A and C together in 2023 (in thousand units)?",
+          "options": [
+            "90",
+            "100",
+            "110",
+            "120",
+            "130"
+          ],
+          "correct": 3,
+          "explanation": "50 + 60 = 110 thousand units.<br><b>Full solution:</b> Quant_Sample.pdf, page 10"
+        },
+        {
+          "id": 7,
+          "groupId": "quant-di1",
+          "question": "Which company showed the maximum percentage increase in production from 2022 to 2023?",
+          "options": [
+            "Company A",
+            "Company B",
+            "Company C",
+            "Company D",
+            "Company E"
+          ],
+          "correct": 3,
+          "explanation": "Company C rose from 30 to 60, an increase of 100%, which is the highest.<br><b>Full solution:</b> Quant_Sample.pdf, page 10"
+        },
+        {
+          "id": 8,
+          "groupId": "quant-di1",
+          "question": "What is the average production of all five companies in 2022 (in thousand units)?",
+          "options": [
+            "44",
+            "48",
+            "46",
+            "50",
+            "52"
+          ],
+          "correct": 2,
+          "explanation": "(40 + 55 + 30 + 65 + 50)/5 = 240/5 = 48.<br><b>Full solution:</b> Quant_Sample.pdf, page 11"
+        },
+        {
+          "id": 9,
+          "groupId": "quant-di1",
+          "question": "What is the ratio of Company B production in 2022 to Company D production in 2023?",
+          "options": [
+            "11 : 14",
+            "11 : 12",
+            "5 : 7",
+            "11 : 15",
+            "11 : 16"
+          ],
+          "correct": 1,
+          "explanation": "55 : 70 = 11 : 14.<br><b>Full solution:</b> Quant_Sample.pdf, page 11"
+        },
+        {
+          "id": 10,
+          "question": "A train 150 m long passes a pole in 15 seconds.\nFind its speed in km/h.",
+          "options": [
+            "30 km/h",
+            "36 km/h",
+            "40 km/h",
+            "45 km/h",
+            "54 km/h"
+          ],
+          "correct": 2,
+          "explanation": "Speed = 150/15 = 10 m/s = 10 x 18/5 = 36 km/h.<br><b>Full solution:</b> Quant_Sample.pdf, page 3"
+        }
+      ]
+    },
+    {
+      "name": "Reasoning Ability",
+      "durationMinutes": 20,
+      "cutoff": 10,
+      "groups": [
+        {
+          "id": "reas-puz1",
+          "passage": "<b>Directions (Q. 11–14):</b> Study the following information carefully and answer the questions below.\n\nEight persons — A, B, C, D, E, F, G, and H — are sitting in a linear row facing North.\n• A sits third to the left of B.\n• Only two persons sit between B and C.\n• D sits second to the right of C.\n• E sits immediate right of D.\n• F sits third to the left of E.\n• G sits to the immediate left of A.\n• H sits at one of the extreme ends."
+        }
+      ],
+      "questions": [
+        {
+          "id": 11,
+          "groupId": "reas-puz1",
+          "question": "Who sits at the extreme right end of the row?",
+          "options": [
+            "E",
+            "D",
+            "B",
+            "H",
+            "C"
+          ],
+          "correct": 1,
+          "explanation": "Left-to-right arrangement: H, G, A, F, B, C, D, E. Thus E is at the extreme right end.<br><b>Full solution:</b> Reasoning_Sample.pdf, page 15"
+        },
+        {
+          "id": 12,
+          "groupId": "reas-puz1",
+          "question": "How many persons sit between G and C?",
+          "options": [
+            "One",
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+          ],
+          "correct": 3,
+          "explanation": "Persons between G and C are A, F, and B (total 3 persons).<br><b>Full solution:</b> Reasoning_Sample.pdf, page 15"
+        },
+        {
+          "id": 13,
+          "groupId": "reas-puz1",
+          "question": "Who sits third to the right of F?",
+          "options": [
+            "C",
+            "D",
+            "E",
+            "B",
+            "G"
+          ],
+          "correct": 2,
+          "explanation": "Positions: F is 4th, B is 5th, C is 6th, D is 7th. Third to the right of F is D.<br><b>Full solution:</b> Reasoning_Sample.pdf, page 16"
+        },
+        {
+          "id": 14,
+          "groupId": "reas-puz1",
+          "question": "What is the position of A with respect to H?",
+          "options": [
+            "Second to the right",
+            "Immediate right",
+            "Third to the right",
+            "Second to the left",
+            "Immediate left"
+          ],
+          "correct": 1,
+          "explanation": "H is at position 1, G at 2, A at 3. A is second to the right of H.<br><b>Full solution:</b> Reasoning_Sample.pdf, page 16"
+        },
+        {
+          "id": 15,
+          "question": "<b>Statements:</b>\nAll chairs are tables.\nNo table is sofa.\n\n<b>Conclusions:</b>\nI. No chair is sofa.\nII. Some tables are chairs.",
+          "options": [
+            "Only conclusion I follows",
+            "Only conclusion II follows",
+            "Either conclusion I or II follows",
+            "Neither conclusion I nor II follows",
+            "Both conclusions I and II follow"
+          ],
+          "correct": 5,
+          "explanation": "Since all chairs are tables and no table is sofa, no chair is sofa (I is valid). Since all chairs are tables, some tables are chairs (II is valid). Both conclusions follow.<br><b>Full solution:</b> Reasoning_Sample.pdf, page 18"
+        }
+      ]
+    }
+  ]
+}
